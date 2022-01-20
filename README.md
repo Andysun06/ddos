@@ -1,6 +1,8 @@
-> 作者            : Andysun06 
-> 作者github : https://github.com/Andysun06
-> kali-QQ学习群   : 909533854
+作者            : Andysun06 
+
+作者github : https://github.com/Andysun06
+
+kali-QQ学习群   : 909533854
 
 
 **版本            : V1.0.0**
