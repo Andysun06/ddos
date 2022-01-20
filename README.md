@@ -1,11 +1,13 @@
-作者            : Andysun06 
-作者github : https://github.com/Andysun06
-kali-QQ学习群   : 909533854
-版本            : V1.0.0
+> 作者            : Andysun06 
+> 作者github : https://github.com/Andysun06
+> kali-QQ学习群   : 909533854
 
-请勿用于非法用途
 
-适用于 python3.X 版本
+**版本            : V1.0.0**
+
+**请勿用于非法用途**
+
+适用于 **python3.X** 版本
 
 原作者链接：https://github.com/Ha3MrX/DDos-Attack
 
