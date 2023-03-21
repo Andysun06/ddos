@@ -9,7 +9,7 @@ kali-QQ学习群   : 909533854
 
 **请勿用于非法用途**
 
-依赖：[figlet](https://github.com/cmatsuoka/figlet)，用于输出ASCII字符画，如果您的发行版没有，请自行安装！ 
+依赖：[figlet](https://github.com/cmatsuoka/figlet)，用于输出ASCII字符画，如果您的操作系统没有，请自行安装！ 
 
 原作者链接：https://github.com/Ha3MrX/DDos-Attack
 
