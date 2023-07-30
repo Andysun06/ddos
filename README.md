@@ -1,4 +1,4 @@
-作者            : Andysun06 
+作者            : Andy
 
 作者github : https://github.com/Andysun06
 
@@ -16,5 +16,3 @@ kali-QQ学习群   : 909533854
 原作者链接：https://github.com/Ha3MrX/DDos-Attack
 
 使用教程：https://blog.csdn.net/a_n_d_y_s_u_n__/article/details/118528019?spm=1001.2014.3001.5502
-
-祝您使用愉快~
