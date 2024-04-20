@@ -1,4 +1,4 @@
-近期网络上有很多未经允许的搬运文章，再次强调，原文章仅在CSDN发布https://blog.csdn.net/a_n_d_y_s_u_n__/article/details/118528019，任何抄袭行为我都会追究到底，各位搬运家好自为之
+近期网络上有很多未经允许的搬运文章，再次强调，原文章仅在CSDN发布https://blog.csdn.net/a_n_d_y_s_u_n__/article/details/118528019 ，任何抄袭行为我都会追究到底，各位搬运家好自为之
 
 作者            : Andy
 
